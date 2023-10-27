@@ -6,5 +6,5 @@ Buildwith:
 -CSS
 -JAVASCRIPT
 
-Solution Link: https://github.com/Kannusounshar/Colour-Flipper
-You can view the live project here: https://relaxed-heliotrope-0f2c96.netlify.app/
+Solution Link: https://github.com/Kannusounshar/Tabs
+You can view the live project here: https://lucky-crumble-620db7.netlify.app
